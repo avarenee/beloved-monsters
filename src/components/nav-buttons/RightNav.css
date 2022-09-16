@@ -1,0 +1,26 @@
+.image-gallery-right-nav {
+    height: 150px;
+    width: 24px;
+    padding: 0;
+    filter: none;
+    transform: translateX(14px) translateY(100%);
+    position: fixed;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.image-gallery-right-nav svg {
+    filter: drop-shadow(0 0 3px var(--tertiary-theme-color));
+    fill: var(--tertiary-theme-color);
+    opacity: 1;
+}
+
+@media screen and (min-width: 480px) {
+    .image-gallery-right-nav {
+        width: 48px;
+        transform: translateX(28px) translateY(100%);
+    }
+    .image-gallery-right-nav .image-gallery-svg {
+        height: 60px;
+        width: 30px;
+    }
+}

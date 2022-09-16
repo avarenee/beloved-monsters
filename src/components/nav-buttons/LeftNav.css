@@ -1,0 +1,27 @@
+.image-gallery-left-nav {
+    height: 150px;
+    width: 24px;
+    padding: 0;
+    filter: none;
+    top: 0;
+    transform: translateX(-14px) translateY(100%);
+    position: fixed;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.image-gallery-left-nav svg {
+    filter: drop-shadow(0 0 3px var(--tertiary-theme-color));
+    fill: var(--tertiary-theme-color);
+    opacity: 1;
+}
+
+@media screen and (min-width: 480px) {
+    .image-gallery-left-nav {
+        width: 48px;
+        transform: translateX(-28px) translateY(100%);
+    }
+    .image-gallery-left-nav .image-gallery-svg {
+        height: 60px;
+        width: 30px
+    }
+}

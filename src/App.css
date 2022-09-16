@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'MrsMonster';
+  src: url('/public/fonts/mrs_monster/mrsmonster.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SpectrumMT';
+  src: url('/public/fonts/SpectrumMT/Spectrum_MT_Expert.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Tenderness';
+  src: url('/public/fonts/tenderness/Tenderness-Regular.woff') format('woff');
+}
+
+:root {
+  --theme-color: #e302e3;
+  --secondary-theme-color: #e66e00;
+  --tertiary-theme-color: #05ce78;
+  --background-gray: #1d1d1f;
+}
+
+html, .App {
+  background-color: var(--background-gray);
+}
+
+.App {
+  text-align: center;
+}

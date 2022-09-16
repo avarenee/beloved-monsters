@@ -1,0 +1,19 @@
+.Label {
+    color: var(--secondary-theme-color);
+    padding: 12px 0;
+    line-height: 1.5em;
+    margin-top: 12px;
+}
+
+.Label .Title {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.Label .Description {
+    font-size: 16px;
+}
+
+.Label br {
+    height: 8px;
+}

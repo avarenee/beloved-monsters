@@ -1,0 +1,167 @@
+{
+    "galleryItems": [
+        {
+            "image": "http://bruesselbach.com/wp-content/gallery/projects/belovedmonsters/dullahan.jpg",
+            "title": "Dullahan",
+            "model": "Dahlia",
+            "year": 2019,
+            "medium": "oil on canvas",
+            "height": 36,
+            "width": 24,
+            "units": "in"
+        },
+        {
+            "image": "http://bruesselbach.com/wp-content/gallery/projects/belovedmonsters/gestalt.png",
+            "title": "Gestalt/Frankenstein's Monster",
+            "model": "Ashanti",
+            "year": 2019,
+            "medium": "oil on canvas",
+            "height": 48,
+            "width": 32,
+            "units": "in"
+        },
+        {
+            "image": "http://bruesselbach.com/wp-content/gallery/projects/belovedmonsters/jerseydevil.jpg",
+            "title": "The Jersey Devil",
+            "model": "Virgil",
+            "year": 2022,
+            "medium": "oil on canvas",
+            "height": 30,
+            "width": 24,
+            "units": "in"
+        },
+        {
+            "image": "http://bruesselbach.com/wp-content/gallery/projects/belovedmonsters/jinni.jpg",
+            "title": "Jinni",
+            "model": "Nik",
+            "year": 2022,
+            "medium": "oil on canvas",
+            "height": 36,
+            "width": 24,
+            "units": "in"
+        },
+        {
+            "image": "http://bruesselbach.com/wp-content/gallery/projects/belovedmonsters/kit.jpg",
+            "title": "Tamamo-no-mae",
+            "model": "Kitsune",
+            "year": 2020,
+            "medium": "oil on canvas",
+            "height": 36,
+            "width": 36,
+            "units": "in"
+        },
+        {
+            "image": "http://bruesselbach.com/wp-content/gallery/projects/belovedmonsters/manananggal.jpg",
+            "title": "Manananggal",
+            "model": "Amanda",
+            "year": 2021,
+            "medium": "oil on canvas",
+            "height": 40,
+            "width": 24,
+            "units": "in",
+            "additionalInfo": "diptych"
+        },
+        {
+            "image": "http://bruesselbach.com/wp-content/gallery/projects/belovedmonsters/1_manticore.png",
+            "title": "Manticore",
+            "model": "Blaise",
+            "year": 2019,
+            "medium": "oil on canvas",
+            "height": 24,
+            "width": 18,
+            "units": "in"
+        },
+        {
+            "image": "http://bruesselbach.com/wp-content/gallery/projects/belovedmonsters/1_medusa.jpg",
+            "title": "Medusa",
+            "model": "Louisa Ashe",
+            "year": 2021,
+            "month": "May",
+            "medium": "oil on canvas",
+            "height": 3,
+            "width": 2,
+            "units": "ft"
+        },
+        {
+            "image": "http://bruesselbach.com/wp-content/gallery/projects/belovedmonsters/minotaur1.jpg",
+            "title": "Minotaur",
+            "model": "Reginald",
+            "year": 2020,
+            "month": "December",
+            "medium": "oil on canvas",
+            "height": 3,
+            "width": 2,
+            "units": "ft"
+        },
+        {
+            "image": "http://bruesselbach.com/wp-content/gallery/projects/belovedmonsters/reptilian.jpg",
+            "title": "Reptilian",
+            "model": "self portrait",
+            "year": 2020,
+            "medium": "oil on canvas",
+            "height": 30,
+            "width": 21,
+            "units": "in"
+        },
+        {
+            "image": "http://bruesselbach.com/wp-content/gallery/projects/belovedmonsters/selkie.jpg",
+            "title": "Selkie",
+            "model": "Rain",
+            "year": 2021,
+            "medium": "oil on canvas",
+            "height": 80,
+            "width": 60,
+            "units": "cm"
+        },
+        {
+            "image": "http://bruesselbach.com/wp-content/gallery/projects/belovedmonsters/juno.jpg",
+            "title": "Siren",
+            "model": "Juno Tempest",
+            "year": 2019,
+            "medium": "oil on canvas",
+            "height": 48,
+            "width": 24,
+            "units": "in"
+        },
+        {
+            "image": "http://bruesselbach.com/wp-content/gallery/projects/belovedmonsters/sphinxs.jpg",
+            "title": "Sphinx",
+            "model": "Leeat",
+            "year": 2022,
+            "medium": "oil on canvas",
+            "height": 32,
+            "width": 36,
+            "units": "in"
+        },
+        {
+            "image": "http://bruesselbach.com/wp-content/gallery/projects/belovedmonsters/succubus.jpg",
+            "title": "Succubus",
+            "model": "🍑",
+            "year": 2021,
+            "medium": "oil on canvas",
+            "height": 32,
+            "width": 23,
+            "units": "in"
+        },
+        {
+            "image": "http://bruesselbach.com/wp-content/gallery/projects/belovedmonsters/sylph.jpg",
+            "title": "Sylph",
+            "model": "Aster",
+            "year": 2021,
+            "medium": "oil on canvas",
+            "height": 80,
+            "width": 60,
+            "units": "cm"
+        },
+        {
+            "image": "http://bruesselbach.com/wp-content/gallery/projects/belovedmonsters/valerie.jpg",
+            "title": "Valerie the Vampire",
+            "model": "Marina",
+            "year": 2016,
+            "medium": "oil on canvas",
+            "height": 48,
+            "width": 24,
+            "units": "in"
+        }
+    ]
+}
