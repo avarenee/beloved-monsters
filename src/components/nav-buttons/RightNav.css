@@ -3,6 +3,7 @@
     width: 24px;
     padding: 0;
     filter: none;
+    top: 0;
     transform: translateX(14px) translateY(100%);
     position: fixed;
     background-color: rgba(255, 255, 255, 0);
