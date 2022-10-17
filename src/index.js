@@ -4,12 +4,10 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { configureStore } from '@reduxjs/toolkit';
 import { Provider } from 'react-redux';
-import defaultReducer from './features/default';
 import galleryReducer from './features/gallery';
 
 const store = configureStore({
   reducer: {
-    default: defaultReducer,
     gallery: galleryReducer
   }
 })
