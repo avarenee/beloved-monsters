@@ -8,12 +8,12 @@
 
 .ArtistStatement p {
     font-family: 'Tenderness';
-    font-size: 14px;
+    font-size: 18px;
     color: var(--secondary-theme-color);
     text-align: left;
     margin: 0;
     padding: 0 12px 0 12px;
-    line-height: 2rem;
+    line-height: 1.8rem;
 }
 
 .ArtistStatement p a {
@@ -22,7 +22,8 @@
 
 @media screen and (min-width: 480px) {
     .ArtistStatement p {
-        font-size: 16px;
+        font-size: 20px;
+        line-height: 2rem;
         padding: 0 24px 0 24px;
     }
 }
