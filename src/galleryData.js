@@ -16,6 +16,8 @@ const sphinx = "a78c2b90ce9dbe7a1d5c0717ddca683e.jpg";
 const succubus = "bed33ba654fb582653c358440f5bf425.jpg";
 const sylph = "356d8da7cfe56b5cf81763012a8ee63c.jpg";
 const vampire = "85d4322ceedca3fed5a04ff30129754e.jpg";
+const fairy = "fairy.jpg";
+
 
 const gallery = {
     galleryItems: [
@@ -181,7 +183,17 @@ const gallery = {
             height: 48,
             width: 24,
             units: "in"
-        }
+        },
+		        {
+            image: publicUrl + "/" + fairy,
+            title: "Fairy",
+            model: "Saje",
+            year: 2022,
+            medium: "oil on canvas",
+            height: 42,
+            width: 32,
+            units: "in"
+        },
     ]
 }
 
