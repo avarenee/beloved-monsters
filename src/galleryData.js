@@ -1,21 +1,21 @@
 const publicUrl = process.env.PUBLIC_URL === "" ? "" : "https://bruesselbach.com/belovedmonsters";
 
-const dullahan = "55cc0dae05cec404e5caea7d0ee9e778.jpg";
-const gestalt = "af4d4c585e2e7f03b27886a68f76969f.jpg";
-const jerseydevil = "40ac0bf4b757aa347f3b4d17e2ec5c74.jpg";
-const jinni = "dca48320574bc8276440ca944776aaf9.jpg";
-const kit = "d990a5396b14205d53700a3a2e3b2d18.jpg";
-const manananggal = "b5c0081ef74b7e94fd8ebb5fb84ea5c1.jpg";
-const manticore = "1ad2965514c77a98a54a67b03afe201f.png";
-const medusa = "ed487064ebf61db2a5bfbdd6601acae5.jpg";
-const minotaur = "0298d6c7a2da8af9dc280c92f6a65855.jpg";
-const reptilian = "3aa0caa7b35c08c91b6f2e30423fea1a.jpg";
-const selkie = "faefc5423424d9a49446485b4edfc1e3.jpg";
-const siren = "867739ab95bd2c46aadd80ab5a8f497e.jpg";
-const sphinx = "a78c2b90ce9dbe7a1d5c0717ddca683e.jpg";
-const succubus = "bed33ba654fb582653c358440f5bf425.jpg";
-const sylph = "356d8da7cfe56b5cf81763012a8ee63c.jpg";
-const vampire = "85d4322ceedca3fed5a04ff30129754e.jpg";
+const dullahan = "dullahan.jpg";
+const gestalt = "gestalt.jpg";
+const jerseydevil = "jerseydevil.jpg";
+const jinni = "jinni.jpg";
+const kit = "kit.jpg";
+const manananggal = "manananggal.jpg";
+const manticore = "manticore.png";
+const medusa = "medusa.jpg";
+const minotaur = "minotaur.jpg";
+const reptilian = "reptilian.jpg";
+const selkie = "selkie.jpg";
+const siren = "siren.jpg";
+const sphinx = "sphinx.jpg";
+const succubus = "succubus.jpg";
+const sylph = "sylph.jpg";
+const vampire = "vampire.jpg";
 const fairy = "fairy.jpg";
 
 
@@ -157,7 +157,7 @@ const gallery = {
         {
             image: publicUrl + "/" + succubus,
             title: "Succubus",
-            model: "🍑",
+            model: "",
             year: 2021,
             medium: "oil on canvas",
             height: 32,
