@@ -17,6 +17,10 @@ const succubus = "succubus.jpg";
 const sylph = "sylph.jpg";
 const vampire = "vampire.jpg";
 const fairy = "fairy.jpg";
+const zombie = "zombie.jpg";
+const furies = "furies.jpg";
+const werewolf = "werewolf.jpg";
+const angel = "angel.jpg";
 
 
 const gallery = {
@@ -157,7 +161,6 @@ const gallery = {
         {
             image: publicUrl + "/" + succubus,
             title: "Succubus",
-            model: "",
             year: 2021,
             medium: "oil on canvas",
             height: 32,
@@ -184,7 +187,7 @@ const gallery = {
             width: 24,
             units: "in"
         },
-		        {
+		{
             image: publicUrl + "/" + fairy,
             title: "Fairy",
             model: "Saje",
@@ -194,6 +197,45 @@ const gallery = {
             width: 32,
             units: "in"
         },
+        {
+            image: publicUrl + "/" + zombie,
+            title: "Zombie",
+            model: "Artemis",
+            year: 2022,
+            medium: "oil on canvas",
+            height: 32,
+            width: 24,
+            units: "in"
+        },
+        {
+            image: publicUrl + "/" + furies,
+            title: "Furies",
+            model: "Christy, Rebekkah, Echo",
+            year: 2022,
+            medium: "oil on canvas",
+            height: 32,
+            width: 48,
+            units: "in"
+        },
+        {
+            image: publicUrl + "/" + werewolf,
+            title: "Werewolf",
+            model: "Zyaire",
+            year: 2023,
+            medium: "oil on canvas",
+            height: 30,
+            width: 24,
+            units: "in"
+        },
+        {
+            image: publicUrl + "/" + angel,
+            title: "Angel",
+            year: 2023,
+            medium: "oil on canvas",
+            height: 36,
+            width: 36,
+            units: "in"
+        }
     ]
 }
 
