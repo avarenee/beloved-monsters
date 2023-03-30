@@ -3,7 +3,7 @@ import './Label.css';
 
 function Label(props) {
   function createTitle() {
-    return `${props.item.title} (${props.item.model})`
+    return `${props.item.title}${props.item.model ? ` (${props.item.model})` : ""}`
   }
   function createDescription() {
     return `${props.item.year}, ${props.item.medium}, ${props.item.width}x${props.item.height}${props.item.units}`;

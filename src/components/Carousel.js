@@ -5,7 +5,7 @@ import ImageGallery from 'react-image-gallery';
 import Label from './Label';
 import LeftNav from './nav-buttons/LeftNav';
 import RightNav from './nav-buttons/RightNav';
-import { ArtistStatementPart1, ArtistStatementPart2 } from './ArtistStatement';
+import { ArtistStatement } from './ArtistStatement';
 
 function Carousel() {
   const gallery = useSelector((state) => state.gallery.value);
@@ -26,16 +26,9 @@ function Carousel() {
     original: "",
     thumbnail: "",
     description: (
-      <ArtistStatementPart2/>
+      <ArtistStatement/>
     )
   });
-  items.unshift({
-    original: "",
-    thumbnail: "",
-    description: (
-      <ArtistStatementPart1/>
-    )
-  })
 
   return (
     <div className="Carousel">

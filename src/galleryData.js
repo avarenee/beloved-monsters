@@ -21,7 +21,7 @@ const zombie = "zombie.jpg";
 const furies = "furies.jpg";
 const werewolf = "werewolf.jpg";
 const angel = "angel.jpg";
-const centaur = "centaur.jpg;"
+const centaur = "centaur.jpg";
 
 
 const gallery = {

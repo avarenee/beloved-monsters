@@ -22,3 +22,12 @@
   padding-top: 2px;
   padding-bottom: 28px; 
 }
+
+@media screen and (min-width: 1200px) {
+  .Navbar h1 {
+    font-size: 48px;
+  }
+  .Navbar h2 {
+    font-size: 34px;
+  }
+}
