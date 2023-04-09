@@ -1,4 +1,4 @@
-const publicUrl = process.env.PUBLIC_URL === "" ? "" : "https://bruesselbach.com/belovedmonsters";
+const publicUrl = process.env.PUBLIC_URL + "/gallery";
 
 const dullahan = "dullahan.jpg";
 const gestalt = "gestalt.jpg";
