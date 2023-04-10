@@ -1,4 +1,4 @@
-const publicUrl = process.env.PUBLIC_URL + "/gallery";
+const publicUrl = process.env.PUBLIC_URL === "" ? "" : "https://bruesselbach.com/belovedmonsters";
 
 const dullahan = "dullahan.jpg";
 const gestalt = "gestalt.jpg";
@@ -22,6 +22,7 @@ const furies = "furies.jpg";
 const werewolf = "werewolf.jpg";
 const angel = "angel.jpg";
 const centaur = "centaur.jpg";
+const satyr - "satyr.jpg";
 
 
 const gallery = {
@@ -79,7 +80,7 @@ const gallery = {
 		        {
             image: publicUrl + "/" + kit,
             title: "Tamamo-no-mae",
-            model: "Kitsune",
+            model: "Shakira",
             year: 2020,
             medium: "oil on canvas",
             height: 36,
@@ -246,6 +247,16 @@ const gallery = {
             medium: "oil on canvas",
             height: 46,
             width: 32,
+            units: "in"
+        },
+		{
+            image: publicUrl + "/" + satyr,
+            title: "Satyr",
+			model: "Stanley",
+            year: 2023,
+            medium: "oil on canvas",
+            height: 36,
+            width: 18,
             units: "in"
         },
     ]
